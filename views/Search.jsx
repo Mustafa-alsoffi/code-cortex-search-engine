@@ -19,7 +19,7 @@ const Search = () => {
           <ReactTyped
             alignItems="start"
             strings={[
-              "Our search engine can help you identify potential scamemrs/scams report them\n and help others to stay safe!",
+              "Our search engine can help you identify potential scammrs/scams report them\n and help others to stay safe!",
             ]}
             typeSpeed={50}
             backSpeed={30}
